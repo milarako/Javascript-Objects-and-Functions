@@ -12,3 +12,10 @@
 
 ### Creating Objects Object.create
 - Object.create
+
+
+### Primitives vs. Objects
+
+### First Class Functions: Passing Functions as Arguments
+
+### First Class Functions: Functions Returning Functions
