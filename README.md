@@ -23,9 +23,7 @@
 
 ### Immediately Invoked Function Expressions (IIFE)
 ```javascript
-(function () {
-    statements
-})();
+(function () {statements})();
 ```
 
 ### Closures
